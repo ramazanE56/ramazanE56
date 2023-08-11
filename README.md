@@ -1,6 +1,6 @@
 ![MasterHead](https://i0.wp.com/practicetestautomation.com/wp-content/uploads/2023/05/1280%D1%85720_Selenium-WebDriver-with-Java-for-beginners.png?resize=1024%2C577&ssl=1)
 <h1 align="center">Hi 👋, I'm Ramazan E.</h1>
-<h3 align="center">QA Engineer | Selenium | Selenium Grid | ISTQB | Jira Xray | Jenkins</h3>
+<h3 align="center">QA Test Automation Engineer | Selenium | Selenium Grid | ISTQB | Jira Xray | Jenkins</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazane56&label=Profile%20views&color=0e75b6&style=flat" alt="ramazane56" /> </p>
 
