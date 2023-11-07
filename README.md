@@ -5,7 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ramazan+E.!;" />
 </h1>
 
-<h3 align="center">QA-SDET  from TÜRKİYE TR</h3>
+<h3 align="center">SDET|QA Test Automation Engineer | Selenium | Selenium Grid | ISTQB | Jira Xray | Jenkins |Cucumber|TestNG|SQL|JDBC|API|html-css|Appium|Cypress|Mulesoft  from TÜRKİYE TR</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazane56&label=Profile%20views&color=0e75b6&style=flat" alt="ramazane56" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazane56" alt="ramazane56" /></a> </p>
 
 <br/>
 
