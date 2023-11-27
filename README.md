@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">SDET|QA Test Automation Engineer | Selenium | Selenium Grid | ISTQB | Jira Xray | Jenkins |Cucumber|TestNG|SQL|JDBC|API|html-css|Appium|Cypress|Mulesoft  from TÜRKİYE TR</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazane56&label=Profile%20views&color=0e75b6&style=flat" alt="ramazane56" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazane56&label=Profile%20views&color=FFA500&style=flat" alt="ramazane56" /> </p>
 
 
 <a href="https://www.linkedin.com/in/ramazan-e-qa/" target="_blank">
