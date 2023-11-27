@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramazanE56.ramazanE56" />
 
 
-<span style="color:orange;">Your Desired Text</span>
+
 
 
 <h1 align="center">
