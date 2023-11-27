@@ -102,6 +102,18 @@
 </div>
 
 <br/><br/>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // H1 başlığının rengini turuncu yap
+    document.querySelector('h1').style.color = 'orange';
+
+    // H3 başlığının içindeki img etiketinin rengini turuncu yap
+    var h3Img = document.querySelector('h3 img');
+    if (h3Img) {
+      h3Img.style.color = 'orange';
+    }
+  });
+</script>
 <hr/>
 
 <h3 align="center">
