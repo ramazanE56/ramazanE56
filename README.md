@@ -8,6 +8,25 @@
 <h3 align="center">SDET|QA Test Automation Engineer | Selenium | Selenium Grid | ISTQB | Jira Xray | Jenkins |Cucumber|TestNG|SQL|JDBC|API|html-css|Appium|Cypress|Mulesoft  from TÜRKİYE TR</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazane56&label=Profile%20views&color=0e75b6&style=flat" alt="ramazane56" /> </p>
 
+
+<a href="https://www.linkedin.com/in/ramazan-e-qa/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
+
+                                                                                                                                     
+<img src="walking-code.gif" width="auto">   ![ramazane56's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramazane56&theme=dark&show_icons=true)
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazane56" alt="ramazane56" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
