@@ -3,11 +3,9 @@
 
 
 
-
-
-<h1 align="center">
-        <img src="(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A02&background=FFE5FC00&random=false&width=435&separator=%3C&lines=Hi%2BThere!%2BWELCOME%2B%F0%9F%91%8B;%2BI'm%2BRamazan%2BE.!;" />
-</h1>   
+<h1 align="center" style="color: orange;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ramazan+E.!;" />
+</h1>
 
 <h3 align="center">SDET|QA Test Automation Engineer | Selenium | Selenium Grid | ISTQB | Jira Xray | Jenkins |Cucumber|TestNG|SQL|JDBC|API|html-css|Appium|Cypress|Mulesoft  from TÜRKİYE TR</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazane56&label=Profile%20views&color=FFA500&style=flat" alt="ramazane56" /> </p>
@@ -104,7 +102,6 @@
 </div>
 
 <br/><br/>
-
 <hr/>
 
 <h3 align="center">
