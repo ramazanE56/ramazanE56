@@ -1,7 +1,7 @@
 ![MasterHead](https://i0.wp.com/practicetestautomation.com/wp-content/uploads/2023/05/1280%D1%85720_Selenium-WebDriver-with-Java-for-beginners.png?resize=1024%2C577&ssl=1)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramazanE56.ramazanE56" />
 
-![svg](https://raw.githubusercontent.com/ramazanE56/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+![svg](https://raw.githubusercontent.com/ramazanE56/ramazanE56/main/profile-gitblock.svg)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ramazan+E.!;" />
