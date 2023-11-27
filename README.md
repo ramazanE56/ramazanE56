@@ -181,7 +181,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78111&background=FFF4F800&random=false&width=435&lines=%E2%9A%92%EF%B8%8F+Languages-Frameworks-Tools+%E2%9A%92%EF%B8%8F)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78111&background=FFF4F800&random=false&width=435&lines=%E2%9A%92%EF%B8%8F+Languages-Frameworks-Tools+%E2%9A%92%EF%B8%8F" alt="Typing SVG" /></a>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=gherkin,ai,jenkins,html,css,vscode,github,postman,selenium,git,r" />
