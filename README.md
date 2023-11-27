@@ -8,7 +8,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramazanE56.ramazanE56" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F78111&background=FFF4F800&random=false&width=435&lines=WELCOME+Hi+%F0%9F%91%8B+I'm+Ramazan+E.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F78111&background=FFF4F800&random=false&width=435&lines=+%F0%9F%91%8B++%F0%9F%91%8B+%F0%9F%91%8B+%F0%9F%91%8B+%F0%9F%91%8B+%F0%9F%91%8B+%F0%9F%91%8B+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 <h3 align="center">SDET|QA Test Automation Engineer | Selenium | Selenium Grid | ISTQB | Jira Xray | Jenkins |Cucumber|TestNG|SQL|JDBC|API|html-css|Appium|Cypress|Mulesoft  from TÜRKİYE TR</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazane56&label=Profile%20views&color=FFA500&style=flat" alt="ramazane56" /> </p>
 
