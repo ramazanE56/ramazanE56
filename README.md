@@ -8,7 +8,7 @@
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A02&background=FFE5FC00&random=false&width=435&separator=%3C&lines=Hi%2BThere!%2BWELCOME%2B%F0%9F%91%8B;%2BI'm%2BRamazan%2BE.!;)](https://git.io/typing-svg)
-<h3 align="center">SDET|QA Test Automation Engineer | Selenium | Selenium Grid | ISTQB | Jira Xray | Jenkins |Cucumber|TestNG|SQL|JDBC|API|html-css|Appium  from TÜRKİYE TR</h3>
+<h3 align="center">SDET | QA Test Automation Engineer | Selenium | Selenium Grid | TestNG | Cucumber | ISTQB | Jira Xray | Jenkins | Appium | API(Rest-Assured) | Postman | JDBC | SQL(MySQL) | HTML-CSS |SDLC | STLC |  from TÜRKİYE TR</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazane56&label=Profile%20views&color=FFA500&style=flat" alt="ramazane56" /> </p>
 
 
