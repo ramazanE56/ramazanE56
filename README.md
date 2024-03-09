@@ -31,7 +31,21 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazane56" alt="ramazane56" /></a> </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+    
+    ## 📧 Let's Connect
+
+- [![Email](https://img.shields.io/badge/Email-hantek5656%40gmail.com-orange)](mailto:hantek5656@gmail.com)
+- [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ramazanE56)
+- [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://ramazane56.github.io)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ramazan-e-qa/)
+- [![Topmate](https://img.shields.io/badge/Topmate-Profile-red)](https://topmate.io/ismail_temiz)
+- [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/ismailfizikci)
+- [![Instagram](https://img.shields.io/badge/Instagram-Profile-orange)](https://www.instagram.com)
+- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com)
+- [![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Community-brightgreen)](https://chat.whatsapp.com)
+- [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-brightgreen)](https://whatsapp.com/channel/)
+</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramazan-e-qa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramazan-e-qa/" height="30" width="40" /></a>
 </p>
